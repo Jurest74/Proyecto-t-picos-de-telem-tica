@@ -1,10 +1,6 @@
 # Proyecto2
 
-# Proyecto-2
-
 Mi página -> https://www.proyectosintegrador.com/
-Dirección ip -> 3.87.34.23
-
 
 <h3>Instalación y ejecución</h3>
 
